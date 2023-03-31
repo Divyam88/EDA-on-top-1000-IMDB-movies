@@ -19,4 +19,4 @@
     * Gross - Money earned by that movie
    
 # Report:
-   A [report](https://drive.google.com/file/d/1Xigfy9jZJvacfMET9qn7dAPJRUpEBMUZ/view) to provide a summary about the analysis is provide. 
+   A [report](https://drive.google.com/file/d/1Xigfy9jZJvacfMET9qn7dAPJRUpEBMUZ/view) to provide a summary about the analysis. 
