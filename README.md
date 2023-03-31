@@ -1,7 +1,7 @@
 # EDA-on-top-1000-IMDB-movies
 
 # Dataset Description:
-* The dataset is taken from [kaggle] (https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
+* The dataset is taken from [kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 * Data:-
 
     * Poster_Link - Link of the poster that imdb using
@@ -19,4 +19,4 @@
     * Gross - Money earned by that movie
    
 # Report:
-   A [report] (https://drive.google.com/file/d/1Xigfy9jZJvacfMET9qn7dAPJRUpEBMUZ/view)to provide a summary about the analysis is provide. 
+   A [report](https://drive.google.com/file/d/1Xigfy9jZJvacfMET9qn7dAPJRUpEBMUZ/view) to provide a summary about the analysis is provide. 
